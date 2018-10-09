@@ -41,3 +41,8 @@ bower_components
 # sass cache
 .gulp-scss-cache
 .sass-cache
+/.settings/
+/package-lock.json
+/.directory
+/nbproject/private/
+/public

@@ -11,7 +11,7 @@ body {
 
 
 .nav-bar {
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.12);
-  background: #FFF;
+/*  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.12);
+  background: #FFF;*/
   z-index: 9;
 }
