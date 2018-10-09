@@ -44,3 +44,4 @@ bower_components
 /.settings/
 /package-lock.json
 /.directory
+/public/
