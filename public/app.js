@@ -1,4 +1,4 @@
-angular.module('angularMaterialExpansionPanel', [
+(function(){"use strict";angular.module('angularMaterialExpansionPanel', [
     'ngRoute',
     'ngAnimate',
     'ngMaterial',
@@ -49,3 +49,4 @@ function configApp($routeProvider) {
             })
             .otherwise('/');
 }
+}());

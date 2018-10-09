@@ -1,4 +1,4 @@
-angular
+(function(){"use strict";angular
         .module('material.components.expansionPanels')
         .directive('mdExpansionPanel', expansionPanelDirective);
 
@@ -493,3 +493,4 @@ function expansionPanelDirective() {
         }
     }
 }
+}());
