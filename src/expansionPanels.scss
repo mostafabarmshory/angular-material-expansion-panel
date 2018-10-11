@@ -82,6 +82,7 @@ md-expansion-panel {
     opacity: 1;
     z-index: 2;
     box-sizing: border-box;
+	cursor: pointer;
 
 
     &.md-absolute {
@@ -160,6 +161,7 @@ md-expansion-panel-header {
   display: block;
   position: relative;
   outline: none;
+  cursor: pointer;
 
 
   .md-expansion-panel-header-container {
