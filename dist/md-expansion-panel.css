@@ -100,7 +100,8 @@ md-expansion-panel md-expansion-panel-collapsed {
   padding: 0 24px;
   opacity: 1;
   z-index: 2;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+  cursor: pointer; }
   md-expansion-panel md-expansion-panel-collapsed.md-absolute {
     position: absolute; }
   md-expansion-panel md-expansion-panel-collapsed.md-hide {
@@ -136,7 +137,8 @@ md-expansion-panel:not(.md-no-animation) md-expansion-panel-expanded.md-hide {
 md-expansion-panel-header {
   display: block;
   position: relative;
-  outline: none; }
+  outline: none;
+  cursor: pointer; }
   md-expansion-panel-header .md-expansion-panel-header-container {
     display: -ms-flexbox;
     display: flex;
