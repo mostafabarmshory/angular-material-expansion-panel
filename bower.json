@@ -33,14 +33,14 @@
     "gulp"
   ],
   "dependencies": {
-    "angular": "^1.7.0",
-    "angular-animate": "^1.7.0",
-    "angular-messages": "^1.7.0",
-    "angular-aria": "^1.7.0",
+    "angular": "1.7.x",
+    "angular-animate": "1.7.x",
+    "angular-messages": "1.7.x",
+    "angular-aria": "1.7.x",
     "angular-material": "^1.1.0"
   },
   "devDependencies": {
-    "angular-mocks": "^1.7.0",
-    "angular-route": "^1.7.0"
+    "angular-mocks": "1.7.x",
+    "angular-route": "1.7.x"
   }
 }
